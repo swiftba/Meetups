@@ -17,13 +17,11 @@
 ### Marzo 
 21 de Marzo en [OLX](https://twitter.com/olxtecharg)
 
-- [Julio Carrettoni](https://twitter.com/dev_jac)
-Enums, el bueno, el malo y el default
-[🎥 Video](https://www.youtube.com/watch?v=os8a6POzF90)
+- [Julio Carrettoni](https://twitter.com/dev_jac): Enums, el bueno, el malo y el default
+[🎥](https://www.youtube.com/watch?v=os8a6POzF90)
 
-- Daniela Paula Riesgo
-Reutilizar código: Baby steps para hacer un framework
-[🎥 Video](https://www.youtube.com/watch?v=tIagYPQl3-c)
+- Daniela Paula Riesgo: Reutilizar código: Baby steps para hacer un framework
+[🎥](https://www.youtube.com/watch?v=tIagYPQl3-c)
 
 Link: https://www.meetup.com/SwiftBA/events/258928946/
 
