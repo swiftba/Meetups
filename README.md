@@ -65,7 +65,7 @@ Link: https://www.meetup.com/SwiftBA/events/258928946/
 - [Tomás De Lucca](https://twitter.com/tomidelucca): WWDC Experience
 [🎥](https://www.youtube.com/channel/UCFY_bNfneCoxrV1T0xhyejg)
 
-- [Santiago Lazzari](https://twitter.com/Mercadolibre) y [Leandro Furyk](https://twitter.com/Mercadolibre): Nueva Arquitectura Mobile
+- Santiago Lazzari y Leandro Furyk: Nueva Arquitectura Mobile
 [🎥](https://www.youtube.com/channel/UCFY_bNfneCoxrV1T0xhyejg)
 
 ## Organizadores
