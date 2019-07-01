@@ -60,13 +60,10 @@ Link: https://www.meetup.com/SwiftBA/events/258928946/
 26 de Junio en [Mercado Libre](https://twitter.com/Mercadolibre)
 
 - [Joel Marquez](https://twitter.com/joelmarquez90): SOLID Swift
-[🎥](https://www.youtube.com/channel/UCFY_bNfneCoxrV1T0xhyejg)
 
 - [Tomás De Lucca](https://twitter.com/tomidelucca): WWDC Experience
-[🎥](https://www.youtube.com/channel/UCFY_bNfneCoxrV1T0xhyejg)
 
-- Santiago Lazzari y Leandro Furyk: Nueva Arquitectura Mobile
-[🎥](https://www.youtube.com/channel/UCFY_bNfneCoxrV1T0xhyejg)
+- [Santiago Lazzari](https://www.linkedin.com/in/santiago-lazzari-5597674b) y [Leandro Furyk](https://www.linkedin.com/in/leandrofuryk): Nueva Arquitectura Mobile
 
 ## Organizadores
 
